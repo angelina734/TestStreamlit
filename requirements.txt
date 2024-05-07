@@ -1,5 +1,7 @@
 streamlit
+appdirs
 yfinance
-yfinance
-pandas
 plotly
+statsmodels
+scikit-learn
+numpy

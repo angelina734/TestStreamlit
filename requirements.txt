@@ -1,0 +1,5 @@
+streamlit
+yfinance
+yfinance
+pandas
+plotly
